@@ -1,0 +1,32 @@
+dependencies: \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/RepositoryWindowController.m \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/AppDelegate.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/RepositoryWindowController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHWindowControllerIdentifier.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/IssueDetailWindowController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/DetailViewControllerDelegate.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/EQSTRScrollView.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/INAppStoreWindow.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHRepository.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHUser.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHMilestone.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHLabel.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHIssue.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHQueueUpdateRequest.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/GHAPIRequest.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/IssueListTableCellView.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHIssueFilter.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/IssueDetailViewController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/RLView.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/LabelsFilterViewController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/MilestoneFilterViewController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/AssigneeFilterViewController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/SearchFilterViewController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/NSColor+hex.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/NSObject+AssociatedObjects.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/BHRequestQueue.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/NewIssueWindowController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/NewCommentWindowController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/NewLabelWindowController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/NewMilestoneWindowController.h \
+  /Volumes/SHARED/trough/BugHub/BugHub\ for\ Mac/BugHub/BugHub/WindowButton.h
