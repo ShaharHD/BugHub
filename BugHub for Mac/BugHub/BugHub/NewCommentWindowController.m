@@ -99,8 +99,8 @@
                                  
                                  };
     
-    NSAttributedString *attributedString = [[NSAttributedString alloc] initWithString:fullString
-                                                                           attributes:attributes];
+    return [[NSAttributedString alloc] initWithString:fullString
+                                           attributes:attributes];
 }
 
 - (void)awakeFromNib

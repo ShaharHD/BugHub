@@ -36,7 +36,6 @@
 
 - (void)rebuildMenus;
 - (void)_actuallyDeleteComment:(NSAlert *)anAlert returnCode:(NSInteger)aReturnCode context:(void *)someContext;
-- (void)positionCommentBox;
 @end
 
 @implementation DetailView
