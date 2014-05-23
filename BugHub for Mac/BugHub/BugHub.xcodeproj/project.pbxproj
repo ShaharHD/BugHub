@@ -636,10 +636,6 @@
 			isa = PBXGroup;
 			children = (
 				25CA5E231717BFA600A1FCEC /* Big-Icon@2x.icns */,
-				25CA5E251717CDB400A1FCEC /* CoreText.framework */,
-				2582035C170BECE1008FAB5B /* Security.framework */,
-				25254F1C1694127E0019D5F2 /* WebKit.framework */,
-				25AB4DC7168EC50C00A4F5E1 /* QuartzCore.framework */,
 				25C5DF80168A87240001740A /* BugHub */,
 				25C5DF79168A87240001740A /* Frameworks */,
 				25C5DF77168A87240001740A /* Products */,
@@ -657,6 +653,10 @@
 		25C5DF79168A87240001740A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				25AB4DC7168EC50C00A4F5E1 /* QuartzCore.framework */,
+				25254F1C1694127E0019D5F2 /* WebKit.framework */,
+				2582035C170BECE1008FAB5B /* Security.framework */,
+				25CA5E251717CDB400A1FCEC /* CoreText.framework */,
 				25C5DF7A168A87240001740A /* Cocoa.framework */,
 				25C5DF7C168A87240001740A /* Other Frameworks */,
 			);
