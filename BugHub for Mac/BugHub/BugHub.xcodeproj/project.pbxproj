@@ -169,6 +169,7 @@
 		25D4886B170D260100B516D1 /* refresh_arrow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 25D4886A170D260100B516D1 /* refresh_arrow@2x.png */; };
 		25D4886E170D302200B516D1 /* BHEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 25D4886D170D302200B516D1 /* BHEvent.m */; };
 		25EE89F716CE0BF100AAA75A /* FilterBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 25EE89F616CE0BF100AAA75A /* FilterBarButton.m */; };
+		53B6126F192FB91B00D00989 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53B6126E192FB91B00D00989 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -404,6 +405,7 @@
 		25D4886D170D302200B516D1 /* BHEvent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BHEvent.m; sourceTree = "<group>"; };
 		25EE89F516CE0BF100AAA75A /* FilterBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FilterBarButton.h; sourceTree = "<group>"; };
 		25EE89F616CE0BF100AAA75A /* FilterBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilterBarButton.m; sourceTree = "<group>"; };
+		53B6126E192FB91B00D00989 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -709,6 +711,7 @@
 				25C5DF86168A87240001740A /* main.m */,
 				25C5DF88168A87240001740A /* BugHub-Prefix.pch */,
 				25C5DF89168A87250001740A /* Credits.rtf */,
+				53B6126E192FB91B00D00989 /* Images.xcassets */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -901,6 +904,7 @@
 				259818B9170012B0009C31D9 /* repo_tab_lock_selected@2x.png in Resources */,
 				259818BA170012B0009C31D9 /* repo_icon_small_selected.png in Resources */,
 				259818BC1700223C009C31D9 /* NewIssueLimitedWindowController.xib in Resources */,
+				53B6126F192FB91B00D00989 /* Images.xcassets in Resources */,
 				25159F041707F2E90080EA93 /* no_selected_issue.png in Resources */,
 				25159F051707F2E90080EA93 /* no_selected_issue@2x.png in Resources */,
 				25159F0A1708160A0080EA93 /* lighter_linnen.png in Resources */,
