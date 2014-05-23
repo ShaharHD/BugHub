@@ -107,7 +107,7 @@
 {
     [self.window setMovableByWindowBackground:YES];
     [self.window setOpaque:NO];
-    [self.window setStyleMask:NSBorderlessWindowMask];
+//    [self.window setStyleMask:NSBorderlessWindowMask];
     NSView *view = [self.window contentView];
     view.wantsLayer = YES;
     [[view layer] setCornerRadius:5.0];
